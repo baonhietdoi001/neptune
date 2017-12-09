@@ -1,0 +1,3 @@
+hoten: NGOPHUTUATHUY
+sinhngay:15/10/1997
+diachi:kien luong, kien giang
